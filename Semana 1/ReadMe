@@ -1,0 +1,12 @@
+viernes 17 de abril, 2020
+Tarea Semana #1
+Javier Sandoval Zamora
+B56762
+
+PiPorSeries.c:
+	Contiene los resultados y explicacion al inicio de
+	PiPorSeries.C en comentario.
+
+pruebaSem.cc:
+	En consola hacer un make y luego ./prueba para correr
+	el ejecutable. Dependencias: Semaforo.cpp Semaforo.h Makefile
