@@ -1,0 +1,35 @@
+viernes 24 de abril, 2020
+Tarea Semana #2
+Javier Sandoval Zamora
+B56762
+
+Contenidos:
+	PiPorSeries.c: version de pi por series usando memoria compartida
+	PiPorSeries2.c version de pi por series usando buzones
+	enviarConClases.c y recibirConClases.c: Archivos brindados para la tarea
+	Buzon.cpp y Buzon.h: Implementacion del buzon
+	Indicaciones:
+	1) En consola usar make para generar los ejecutables:
+	pi_shm: ejecutable de PiPorSeries.c (memoria compartida)
+	pi_buzon: ejecutable de PiPorSeries2.c (buzon)
+	enviarConClases: ejecutable de enviarConClases.c
+	recibirConClases: ejecutable de recibirConClases.c
+	2) Ejecutar 
+	pi_shm y pi_buzon
+	enviarConClases y recibirConClases en ese orden
+
+	Nota:
+	El destructor del buzon esta comentado para que funcionen
+	el enviarConClases y recibirConClases.
+	Se puede descomentar para los PiPorSeries
+
+Carpeta PruebaShM:
+	Contenidos:
+	pruebaShM.cc: Archivo hecho por el profesor para correr junto
+	a la implementacion de semaforo de la tarea #1
+	Semaforo.cpp y Semaforo.h: implmentacion de semaforo
+	Makefile
+	Indicaciones: 
+	1) En consola usar make para generar el ejecutable "prueba"
+	2) Ejecutar prueba
+	usar make clean: para eliminar archivos extra
