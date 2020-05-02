@@ -1,0 +1,17 @@
+viernes 1 de mayo, 2020
+Tarea Semana #3
+Javier Sandoval Zamora
+B56762
+
+Contenidos:
+	ipv4-test.c: Test para ipv4
+	ipv6-test.c: Test para ipv6
+	server.c: Server local para ipv6
+	Socket.h y Socket.cc: Implementacion de la clase Socket
+
+Indicaciones:
+	1) En consola usar el comando make, para obtener los ejecutables
+	ipv4-test, ipv6-test y server.
+	2) Ejecutar ipv4-test
+	3) En una consola aparte ejecutar server primero, y despues ipv6-test
+	en la otra. 
