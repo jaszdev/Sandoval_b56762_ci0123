@@ -1,0 +1,19 @@
+viernes 8 de mayo, 2020
+Tarea Semana #4
+Javier Sandoval Zamora
+B56762
+
+Contenidos:
+	MirrorServerTest.cc: programa para usar Socket como Servidor
+	MirrorClientTest.cc: programa para usar Socket como Cliente y 
+			mandarle mensajes al Servidor
+	Socket.h y Socket.cc: Implementacion de la clase Socket
+
+Indicaciones:
+	1) En consola usar el comando make, para obtener los ejecutables
+	client y server
+	2) Ejecutar server usando ./server en consola
+	3) Ejecutar client usando ./client en consola mas el mensaje que se 
+	desea enviar y recibir
+	Ej: ./client EsteEsMiMensaje
+	Output esperado: EsteEsMiMensaje
